@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Cypress cache
+.cache/
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Build files
+dist/
