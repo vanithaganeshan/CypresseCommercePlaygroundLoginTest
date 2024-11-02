@@ -1,4 +1,4 @@
-## Project Overview
+## Cypress - Project Overview 
 
 **URL:** https://ecommerce-playground.lambdatest.io
 
